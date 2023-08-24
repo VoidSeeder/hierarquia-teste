@@ -1,0 +1,662 @@
+export default [
+  {
+    companyName: "root",
+    companyId: null,
+    children: [
+      {
+        companyId: 184,
+        companyName: "01 Coexist",
+        network: true,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/78b07b64_8b9c_419a_9c97_1077d9f58afc.jpg",
+        children: [
+          {
+            companyId: 179,
+            companyName: "111 Teste coexist. 2",
+            network: false,
+            logoPathUrl: "",
+            children: [],
+          },
+        ],
+      },
+      {
+        companyId: 114,
+        companyName: "0707 @#$%¨&",
+        network: false,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/170b1c78_9cde_4bc0_bef8_00fc0a961385.png",
+        children: [],
+      },
+      {
+        companyId: 134,
+        companyName: "0908 Coexistencia",
+        network: false,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/2c050224_e1e6_4161_b501_f761dae13a60.png",
+        children: [],
+      },
+      {
+        companyId: 86,
+        companyName: "1-FAN TESTE",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 138,
+        companyName: "13ago1926",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 144,
+        companyName: "13ago19326",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 149,
+        companyName: "13ago19326",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 151,
+        companyName: "13ago19326",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 159,
+        companyName: "13ago19326",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 160,
+        companyName: "13ago19326",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 166,
+        companyName: "13ago19326",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 127,
+        companyName: "14 kyros coexistencia",
+        network: false,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/937f06f3_42d9_4435_89f2_908150e371df.png",
+        children: [],
+      },
+      {
+        companyId: 169,
+        companyName: "17ago1036",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 171,
+        companyName: "17ago1036",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 81,
+        companyName: "1Rafa Teste Coexistencia\t",
+        network: false,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/c6c4f5eb_1584_4e49_8254_7f44619b18bb.JPG",
+        children: [],
+      },
+      {
+        companyId: 152,
+        companyName: "Coexiste Cliente ",
+        network: true,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/22da57b4_c9b7_4bb3_9260_5a7fadf9e61b.png",
+        children: [
+          {
+            companyId: 112,
+            companyName: "PEC É O NOME",
+            network: false,
+            logoPathUrl:
+              "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/22da57b4_c9b7_4bb3_9260_5a7fadf9e61b.png",
+            children: [],
+          },
+        ],
+      },
+      {
+        companyId: 126,
+        companyName: "Coexistencia do logo",
+        network: false,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/77c77085_567a_4030_a01b_ab27758bdd35.png",
+        children: [],
+      },
+      {
+        companyId: 110,
+        companyName: "coexistencia kyros 06/07",
+        network: false,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/029378aa_f0d7_479a_981a_5fb2cd3ee6fb.png",
+        children: [],
+      },
+      {
+        companyId: 133,
+        companyName: "coexistencia sem modulo",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 175,
+        companyName: "dsfdfasdffdsa",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 92,
+        companyName: "Empresa 2206",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 65,
+        companyName: "Empresa Coexistência Teste EDITADA",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 105,
+        companyName: "empresa teste",
+        network: true,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/ce7f51e9_a9ee_4a34_82e4_350ca5d1c440.png",
+        children: [
+          {
+            companyId: 76,
+            companyName: "dsfgdfsg",
+            network: false,
+            logoPathUrl:
+              "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/d60aa25c_0dcd_47ca_8c66_346278eab354.jpg",
+            children: [],
+          },
+        ],
+      },
+      {
+        companyId: 182,
+        companyName: "fgdg",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 100,
+        companyName: "GCPEC",
+        network: false,
+        children: [],
+      },
+      {
+        companyId: 91,
+        companyName: "HAJA COEXISTÊNCIA",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 59,
+        companyName: "Hospital Ana Nery F",
+        network: false,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=/home/sistema.fatorrh.com.br/fatorrh/images/c24da1a3_10fd_43da_a388_d621cbce215c.png",
+        children: [],
+      },
+      {
+        companyId: 10,
+        companyName: "Hospital Antlia",
+        network: false,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/7973bc3f_66d4_4b48_8072_15e7590db563.png",
+        children: [],
+      },
+      {
+        companyId: 54,
+        companyName: "Hospital Antlia",
+        network: false,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/1126ff12_3fc5_4d58_b1d5_935e57c63951.jpg",
+        children: [],
+      },
+      {
+        companyId: 29,
+        companyName: "Hospital de Jesus",
+        network: false,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/023eeff9_e5dc_423e_aec7_ef67426f3947.jpg",
+        children: [],
+      },
+      {
+        companyId: 2,
+        companyName: "Hospital Kyros ",
+        network: true,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/5e3665e0_7d10_401a_8fb8_903edcfaa52c.png",
+        children: [
+          {
+            companyId: 63,
+            companyName: "Kyros Ltd.",
+            network: false,
+            logoPathUrl:
+              "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/5e3665e0_7d10_401a_8fb8_903edcfaa52c.png",
+            children: [],
+          },
+          {
+            companyId: 87,
+            companyName: "teste2006kyros",
+            network: false,
+            logoPathUrl:
+              "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/5e3665e0_7d10_401a_8fb8_903edcfaa52c.png",
+            children: [],
+          },
+          {
+            companyId: 88,
+            companyName: "teste2106kyrosteste",
+            network: false,
+            logoPathUrl:
+              "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/5e3665e0_7d10_401a_8fb8_903edcfaa52c.png",
+            children: [],
+          },
+          {
+            companyId: 89,
+            companyName: "Validar 2106 Coexistencia",
+            network: false,
+            logoPathUrl:
+              "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/5e3665e0_7d10_401a_8fb8_903edcfaa52c.png",
+            children: [],
+          },
+        ],
+      },
+      {
+        companyId: 39,
+        companyName: "Hospital Teste - Não Mexer",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 20,
+        companyName: "Hospital TH",
+        network: true,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/d60aa25c_0dcd_47ca_8c66_346278eab354.jpg",
+        children: [
+          {
+            companyId: 72,
+            companyName: "Hospital TH2",
+            network: true,
+            logoPathUrl:
+              "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/d60aa25c_0dcd_47ca_8c66_346278eab354.jpg",
+            children: [
+              {
+                companyId: 19,
+                companyName: "Hospital Carezzato",
+                network: true,
+                logoPathUrl:
+                  "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/d60aa25c_0dcd_47ca_8c66_346278eab354.jpg",
+                children: [
+                  {
+                    companyId: 69,
+                    companyName: "Clínica Good Hope",
+                    network: false,
+                    logoPathUrl:
+                      "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/7cea9a14_771e_49da_a661_88b63d287b11.jpg",
+                    children: [],
+                  },
+                ],
+              },
+            ],
+          },
+        ],
+      },
+      {
+        companyId: 85,
+        companyName: "JONAS - TESTE COEXISTENCIA",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 109,
+        companyName: "Kyros coexistência 0507",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 90,
+        companyName: "Nova Empresa Teste Coexistencia",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 35,
+        companyName: "Rafael de Jesus",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 64,
+        companyName: "RafaTeste Coexistencia edt",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 73,
+        companyName: "RAÇÃO",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 32,
+        companyName: "Rede Antlia",
+        network: true,
+        logoPathUrl: "",
+        children: [
+          {
+            companyId: 33,
+            companyName: "Hospital Rede Antlia 1",
+            network: false,
+            logoPathUrl: "",
+            children: [],
+          },
+          {
+            companyId: 34,
+            companyName: "Hospital Rede Antlia 2",
+            network: false,
+            logoPathUrl: "",
+            children: [],
+          },
+        ],
+      },
+      {
+        companyId: 68,
+        companyName: "SDAFSADF",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 67,
+        companyName: "SDFASDFASDFSADF",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 174,
+        companyName: "sdfsadfdasf",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 66,
+        companyName: "Seleção de Módulos",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 176,
+        companyName: "sfdgsdfgsg",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 5,
+        companyName: "teste",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 27,
+        companyName: "teste",
+        network: false,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images\\88f62377_0556_46e8_a743_a113f5d020de.png",
+        children: [],
+      },
+      {
+        companyId: 55,
+        companyName: "teste",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 130,
+        companyName: "TESTE 14 COEXISTENCIA",
+        network: false,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/8a2106f6_20af_4dff_842b_6eef2d6c122a.jpg",
+        children: [],
+      },
+      {
+        companyId: 183,
+        companyName: "teste 329",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 103,
+        companyName: "TESTE CAREZZATO - COEXISTENCIA",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 40,
+        companyName: "Teste Chrystian 24-04-23",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 120,
+        companyName: "Teste coexistencia 1907 kyros",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 121,
+        companyName: "Teste coexistencia 1907 kyros modulos",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 83,
+        companyName: "TESTE COEXISTENCIA TESTE",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 119,
+        companyName: "teste emp",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 135,
+        companyName: "teste empresa 1",
+        network: true,
+        logoPathUrl: "",
+        children: [
+          {
+            companyId: 136,
+            companyName: "teste empresa 2",
+            network: true,
+            logoPathUrl: "",
+            children: [
+              {
+                companyId: 137,
+                companyName: "teste empresa 3",
+                network: false,
+                logoPathUrl: "",
+                children: [],
+              },
+            ],
+          },
+        ],
+      },
+      {
+        companyId: 128,
+        companyName: "teste empresa nova",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 129,
+        companyName: "TESTE JONAS",
+        network: false,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/7cea9a14_771e_49da_a661_88b63d287b11.jpg",
+        children: [],
+      },
+      {
+        companyId: 131,
+        companyName: "teste kyros 0808 coexistencia",
+        network: false,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/53d94edf_c093_49cb_8849_c3383588597e.png",
+        children: [],
+      },
+      {
+        companyId: 117,
+        companyName: "teste kyros 1407 NC 1",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 123,
+        companyName: "teste kyros 2107",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 118,
+        companyName: "teste kyros coexistencia 1407 NC 2",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 102,
+        companyName: "teste kyros coexistencia 2906",
+        network: false,
+        logoPathUrl:
+          "https://fastapi-storage-t4tiioe6ka-uc.a.run.app/file/open/download?filename=upload/images/dd799dbf_aaaf_486d_b905_b9eb7906395c.png",
+        children: [],
+      },
+      {
+        companyId: 104,
+        companyName: "teste observation",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 122,
+        companyName: "teste sem modulo",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 84,
+        companyName: "teste temp",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 82,
+        companyName: "teste1906nc",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 177,
+        companyName: "testeee pap",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 60,
+        companyName: "testesdafdfadsf",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 94,
+        companyName: "validar coexistencia 2306",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 99,
+        companyName: "validar coexistencia 2706",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 77,
+        companyName: "Validar Coexistência",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+      {
+        companyId: 181,
+        companyName: "xzfzv",
+        network: false,
+        logoPathUrl: "",
+        children: [],
+      },
+    ],
+  },
+];
