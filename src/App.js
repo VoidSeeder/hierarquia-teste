@@ -34,6 +34,7 @@ function RenderCompanies({
             <Box display="flex" alignItems="center">
               <Tooltip
                 title={`Tornar "${company.companyName}" mãe da empresa atual`}
+                disableInteractive
               >
                 <IconButton onClick={() => sendCompany(company.address)}>
                   {company.companyId === 0 ? <Circle /> : <ArrowForward />}
@@ -42,6 +43,7 @@ function RenderCompanies({
               {company.companyId !== 0 && currentIsHere && (
                 <Tooltip
                   title={`Tornar "${company.companyName}" filha da empresa atual`}
+                  disableInteractive
                 >
                   <IconButton
                     onClick={() => addChildren(company, company.address)}
